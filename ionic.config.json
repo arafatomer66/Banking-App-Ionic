@@ -1,0 +1,7 @@
+{
+  "name": "apitest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
